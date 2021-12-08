@@ -743,7 +743,7 @@ color: green;
 
 }
 
-@media screen and (max-width: 1536px) and (min-width: 1446px) { 
+/* @media screen and (max-width: 1536px) and (min-width: 1446px) { 
   .carousel-item{
     height:40rem;
     background:rgb(91, 15, 29);;
@@ -751,9 +751,9 @@ color: green;
     position: relative;
     background-position: center;
     background-size:cover;
-  }
+  } */
   
-  }
+  /* } */
 
   @media screen and (max-width: 1920px) and (min-width: 1540px) { 
     .carousel-item{
