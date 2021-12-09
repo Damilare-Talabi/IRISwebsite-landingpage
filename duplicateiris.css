@@ -755,9 +755,15 @@ color: green;
   
   /* } */
 
-  @media screen and (max-width: 1920px) and (min-width: 1540px) { 
+  @media screen and (max-width: 1600px) and (min-width: 1500px) {
     .carousel-item{
-      height:50rem;
+      height:40rem;
+    }
+   }
+
+  @media screen and (max-width: 1920px) and (min-width: 1700px) { 
+    .carousel-item{
+      height:45rem;
     }
 
     .containernew{
